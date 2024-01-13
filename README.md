@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tuncay7 Tuncay SEVEN
+- 👀 I have beeb a classroom teacher for 16 years. I started software because I love innovations in my life.
+- 🌱 I’m currently learning React Front end.
+- 💞️ Being the best in the field of software and working by traveling around the world, which is my biggest passion.
+- 📫 Let's do it...
